@@ -1,4 +1,4 @@
-program auctionmutmutuugft5789.aleo;
+ program auctionmutmutuugft5789.aleo;
 
 record Bid:
     owner as address.private;
